@@ -8,3 +8,6 @@ Colores:
 #D8AF88
 #78A893
 
+<div align="center">
+  <img src="captura.png">
+</div>
