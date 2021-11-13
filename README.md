@@ -1,4 +1,4 @@
-Colores:
+# Colores:
 
 #222945
 #73B9D2
